@@ -1,6 +1,9 @@
 
 <h1 align="center">Sofiuzzaman Sofi</h1>
 <h3 align="center">MERN Stack web developer from Dhaka, Bangladesh</h3>
+<p align="center">
+<a href="https://sofiuzzamansofi.netlify.app" target="_blank" >Portfolio Website</a>
+</p>
 
 ![image](https://github.com/SofiuzzamanSofi/SofiuzzamanSofi/assets/108426827/e9d89db8-f7a1-40e3-85a4-7a272c6c8e2e)
 
