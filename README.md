@@ -17,10 +17,11 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="typescript" width="40" height="40"/></a>
   
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://reactjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+  <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vite" width="40" height="40"/></a>
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="expressjs" width="40" height="40"/></a>
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" height="40"/></a>
   <a href="https://next-auth.js.org" target="_blank" rel="noreferrer"> <img src="https://authjs.dev/img/logo/logo-sm.webp" alt="nextauth" width="40" height="40"/></a>
