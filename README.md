@@ -22,9 +22,10 @@
   <a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/></a>
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:1400/1*XP-mZOrIqX7OsFInN2ngRQ.png" alt="expressjs" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/D4E12AQEBg943ptCYpg/article-cover_image-shrink_720_1280/0/1686391647921?e=1719446400&v=beta&t=JHRqdRqAgVf_m44jAX60DtM6Dk0Ihl8ARQ7Fuyf8qCE" alt="expressjs" width="40" height="40"/></a>
   <a href="https://firebase.google.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="firebase" width="40" height="40"/></a>
-  <a href="https://next-auth.js.org" target="_blank" rel="noreferrer"> <img src="https://authjs.dev/img/logo/logo-sm.webp" alt="nextauth" width="40" height="40"/></a>
+  <a href="https://next-auth.js.org" target="_blank" rel="noreferrer"> <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="nextauth" width="40" height="40"/></a>
+  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*doAg1_fMQKWFoub-6gwUiQ.png" alt="mongodb" width="40" height="40"/></a>
   
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap-css" width="40" height="40"/></a>
