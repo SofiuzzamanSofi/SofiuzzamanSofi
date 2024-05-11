@@ -1,5 +1,5 @@
 
-<h1 align="center">Sofiuzzaman Sofi</h1>
+<h1 align="center">Md Sofiuzzaman [Sofi]</h1>
 <h3 align="center">MERN Stack web developer from Dhaka, Bangladesh</h3>
 <p align="center">
 <a href="https://sofiuzzamansofi.netlify.app" target="_blank" >Portfolio Website</a>
